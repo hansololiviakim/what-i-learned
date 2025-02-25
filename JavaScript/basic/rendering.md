@@ -206,7 +206,7 @@
 
 - TTFB(Time To First Byte): 서버가 첫 번째 데이터를 반환하는 속도
 
-- TTV(Time To Visible): 사용자가 화면을 시각적으로 인식할 수 있는 속도 (일반적으로 FMP와 유사한 개념으로 사용됨됨)
+- TTV(Time To Visible): 사용자가 화면을 시각적으로 인식할 수 있는 속도 (일반적으로 FMP와 유사한 개념으로 사용됨)
 
 - TTI(Time To Interaction): 사용자가 페이지와 인터랙션할 수 있는 속도
 
